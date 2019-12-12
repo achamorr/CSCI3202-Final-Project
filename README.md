@@ -1,6 +1,6 @@
 # CSCI3202-Final-Project
 
-##To Run
+## To Run
 python  dataClassifier.py  -c  perceptron  -f
 
 ## Problem
